@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "tta12345",
+    "database": "photo_caption_contest",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "privateKey": "wPKrGPpB3rVKgEnktBez89HcNgtkhWyrXZWjjHUUBFVtRzyDdz"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "tta12345",
+    "database": "photo_caption_contest",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "privateKey": "wPKrGPpB3rVKgEnktBez89HcNgtkhWyrXZWjjHUUBFVtRzyDdz"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "tta12345",
+    "database": "photo_caption_contest",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "privateKey": "wPKrGPpB3rVKgEnktBez89HcNgtkhWyrXZWjjHUUBFVtRzyDdz"
+  }
+}
+
